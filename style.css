@@ -1,0 +1,51 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    letter-spacing: 1px;
+    color:#001133 ;
+    width: 100%;
+
+
+
+}
+a{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blueviolet;
+    font-size: 2em;
+    
+}
+a:link{
+    color: crimson;
+}
+a:visited{
+border-bottom-color: cyan;
+}
+
+a:hover {
+background-color: gold;
+border-radius: 3px;
+padding: .2em;
+
+}
+p:active{
+    background: #eee;
+}
+body{
+    width: 90%;
+    margin: 0 auto;
+    background-color: cornsilk;
+
+
+}
+q{
+    width: 20%;
+    box-sizing: border-box;
+    letter-spacing: 10px;
+    margin: 0 auto;
+    color: red;
+    font-size: 1.6em;
+    background-color: lightgrey;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
