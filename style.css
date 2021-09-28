@@ -33,7 +33,13 @@ p:active{
 body{
     width: 90%;
     margin: 0 auto;
-    background-color: cornsilk;
+    /* background-color: cornsilk;
+     */
+    
+background: -webkit-linear-gradient(106deg, rgb(5, 58, 106), rgb(90, 20, 54));
+background: linear-gradient(90deg, rgb(5, 58, 106), rgb(90, 20, 54));
+
+
 
 
 }
@@ -45,7 +51,7 @@ q{
     color: red;
     font-size: 1.6em;
     background-color: lightgrey;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding: 80px 30px;
+    border-left: 3px red;
     
 }
